@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="" width="600" height="300"/>
+  <img src="https://github.com/Jcamil097/jcamil097/blob/main/img/animation.gif" width="600" height="300"/>
 </div>
 
 ## Languages:
