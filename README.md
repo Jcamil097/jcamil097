@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hello world <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Camilo</h1>
+<h4 align="center">42 Urduliz Student</h4>
+</div>
 
-<!--
-**Jcamil097/jcamil097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages:
+<img src="https://skillicons.dev/icons?i=c,java,html,css,javascript">
 
-Here are some ideas to get you started:
+## Tools:
+<img src="https://skillicons.dev/icons?i=github,vscode,react">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to reach me: 
+Via LinkedIn: [Camilo:](https://www.linkedin.com/in/camilo-moncada-4b1823212/)
+
+<h2>Github stats:</h2> 
+
+<br>
+
+<div>
+  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=inozo22&theme=react&line_height=40&hide=css"/> </a>
+</div>
