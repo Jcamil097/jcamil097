@@ -9,11 +9,12 @@
   <img src="https://github.com/Jcamil097/jcamil097/blob/main/img/animation.gif" width="600" height="300"/>
 </div>
 
-## Languages:
-<img src="https://skillicons.dev/icons?i=c,java,html,css,javascript">
+<br>
 
-## Tools:
-<img src="https://skillicons.dev/icons?i=github,vscode,react">
+## :hammer_and_wrench: Languages and Tools:
+<img src="https://skillicons.dev/icons?i=c,java,html,css,javascript,github,vscode,react">
+
+<br>
 
 <div>
   <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcamil097&layout=compact&theme=blue-green"/> </a>
