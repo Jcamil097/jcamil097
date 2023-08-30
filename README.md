@@ -8,21 +8,22 @@
   </a>
 </div>
 
-<h1 align="center">I'm Camilo <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
-<h4 align="center">42 Urduliz Student</h4>
-</div>
-
-<div align="center">
-  <img src="https://github.com/Jcamil097/jcamil097/blob/main/img/animation.gif" width="600" height="300"/>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Camilo </h1>
+<h4 align="center">A developer focused on Front-end and becoming a Full Stack developer</h4>
 </div>
 
 <br>
 
-## :hammer_and_wrench: Languages and Tools:
+🎓 I am currently studying at 42Urduliz.
+
+
+<br>
+:hammer_and_wrench: Languages and Tools:
+<br>
+<br>
 <img src="https://skillicons.dev/icons?i=c,java,html,css,javascript,github,vscode,react">
 
-<br>
-
+### 🔥 &nbsp; My Stats:
 <div>
   <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcamil097&layout=compact&theme=blue-green"/> </a>
 </div>
