@@ -13,7 +13,7 @@
 </div>
 
 <br>
-
+<div id="badges"><img src="https://komarev.com/ghpvc/?username=Jcamil097&style=flat-square&color=blue" alt=""/></div>
 🎓 I am currently studying at 42Urduliz.
 
 
